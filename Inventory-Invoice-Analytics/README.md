@@ -161,7 +161,7 @@ inventory-invoice-analytics/
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/inventory-invoice-analytics.git
+git clone https://github.com/SayanDnth/inventory-invoice-analytics.git
 ```
 2. Train and Save Best Fit Models:
 ```bash
@@ -181,11 +181,11 @@ streamlit run app.py
 ---
 <h2><a class="anchor" id="author--contact"></a>Author & Contact</h2>
 
-**Ayushi Mishra**  
+**Sayan Debnath**  
 Data Scientist  
-📧 Email: techclasses0810@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/ayushi-mishra-30813b174/)  
-🔗 [Portfolio](https://www.youtube.com/@techclasses0810/)
+📧 Email: sayandebnath709@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/sayan-dnth/)  
+
 
 
 
